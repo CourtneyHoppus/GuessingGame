@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="heart">Heart</string>
+    <string name="spade">Spade</string>
+    <string name="club">Club</string>
+    <string name="diamond">Diamond</string>
+    <string name="symbols">Symbols</string>
+    <string name="welcome">Welcome to my Guessing Game!\nTry and guess which of the symbols above that I am thinking about.\nClick the image when ready!</string>
+    <string name="guess">This is the symbol I was thinking of.\nWere you right?!\nClick the image to try again!</string>
+</resources>
